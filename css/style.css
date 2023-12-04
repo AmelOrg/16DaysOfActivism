@@ -474,7 +474,7 @@ ul.btn li:last-child {
 
 .header {
      width: 100%;
-     background: #FF4207;
+     background: #f75600c2;
      padding: 35px 30px;
      position: relative;
      z-index: 960;
@@ -492,7 +492,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background:#FF4207     ;
+     background:#f75600c2     ;
      padding: 75px 0 90px 0;
 }
 
@@ -568,7 +568,7 @@ ul.btn li:last-child {
 }
 
 .titlepage h2 {
-     /* font-size: 30px; */
+     font-size: 30px;
      color: #382d3c;
      line-height: 55px;
      padding: 0;
