@@ -529,7 +529,7 @@ ul.btn li:last-child {
 
 .text-bg .read_more:hover {
      background: #000;
-}
+}               
 
 .images_box figure {
      margin: 0px;
@@ -568,7 +568,7 @@ ul.btn li:last-child {
 }
 
 .titlepage h2 {
-     font-size: 30px;
+     /* font-size: 30px; */
      color: #382d3c;
      line-height: 55px;
      padding: 0;
