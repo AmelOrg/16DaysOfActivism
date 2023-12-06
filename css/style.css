@@ -485,7 +485,6 @@ ul.btn li:last-child {
      font-weight: bold;
      text-transform: uppercase;
      color: #fff;
-     line-height: 40px;
 }
 
 
@@ -505,7 +504,7 @@ ul.btn li:last-child {
 
 .text-bg h1 {
      color: #fff;
-/*      padding-top: 50px; */
+     padding-top: 1px;
      font-size: 71px;
      line-height: 85px;
      padding-bottom: 25px;
@@ -536,7 +535,7 @@ ul.btn li:last-child {
 }
 
 .images_box figure img {
-     width: 70%;
+     width: 100%;
 }
 
 .carousel-indicators li {
